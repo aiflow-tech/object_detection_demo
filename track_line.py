@@ -13,3 +13,6 @@ class TrackLine:
 
     def point_two(self):
         return self.x2, self.y2
+
+    def get_length(self):
+        return self.x2 - self.x1
