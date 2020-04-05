@@ -1,29 +1,24 @@
 item {
     id: 1
-    name: 'crossover'
+    name: 'leftSignal'
 }
 
 item {
     id: 2
-    name: 'crossover2'
+    name: 'lefttSignal'
 }
 
 item {
     id: 3
-    name: 'marker'
+    name: 'milepost'
 }
 
 item {
     id: 4
-    name: 'track'
+    name: 'rightSignal'
 }
 
 item {
     id: 5
-    name: 'trainLeft'
-}
-
-item {
-    id: 6
-    name: 'trainRight'
+    name: 'switch'
 }
